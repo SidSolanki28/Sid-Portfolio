@@ -7,7 +7,7 @@ Data Science Portfolio
 -
 -
 
-![](https://github.com/SidSolanki28/images/sentiment%20analysis%20of%20twitter.png)
+![](/images/sentiment%20analysis%20of%20twitter.png)
 
 # Project 2: XYZ
 -
