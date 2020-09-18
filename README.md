@@ -13,3 +13,4 @@ Data Science Portfolio
 - Predict future weekly, monthly and yearly trends with and without holidays impact
 
 ![](https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/0_1nv2atmRxYF8RhEw.png)
+---
