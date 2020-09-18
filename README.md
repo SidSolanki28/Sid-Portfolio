@@ -5,6 +5,7 @@ Data Science Portfolio
 
 ---
 # [Project 2: Predict-Future-Product-Sales](https://github.com/SidSolanki28/Predict-Future-Product-Sales)
+
 ![](https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/0_1nv2atmRxYF8RhEw.png)
 
 - Objective : To predict future product sales
@@ -13,5 +14,4 @@ Data Science Portfolio
 - Exploratory Data Analysis
 - Facebook Prophet Time Series Forecasting Tool is used.
 - Predict future weekly, monthly and yearly trends with and without holidays impact
-
 ---
