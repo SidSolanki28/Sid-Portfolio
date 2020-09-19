@@ -15,3 +15,13 @@ Data Science Portfolio
 - Facebook Prophet Time Series Forecasting Tool is used.
 - Predict future weekly, monthly and yearly trends with and without holidays impact
 ---
+# [Project 3: Predict-Sales-by-Advertising-Ads](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
+
+![](https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/display-ad-example.png)
+
+- Objective : To predict sales for given budget spend on TV, Radio and Newspaper in dollars.
+- Regression Problem
+- Data cleaning and Data preprocessing
+- Exploratory Data Analysis
+- Multiple Linear Regression model training and prediction
+- Statistical Analysis done from coefficients, p value, R² and Adj. R² value and F-statistic
