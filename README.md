@@ -14,6 +14,7 @@ Data Science Portfolio
 - Exploratory Data Analysis
 - Facebook Prophet Time Series Forecasting Tool is used.
 - Predict future weekly, monthly and yearly trends with and without holidays impact
+
 ---
 # [Project 3: Predict-Sales-by-Advertising-Ads](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
 
