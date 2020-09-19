@@ -18,8 +18,8 @@ Data Science Portfolio
 ---
 # [Project 3: Predict-Sales-by-Advertising-Ads](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
 
-![](https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/display-ad-example.png)
 
+![](https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/display-ad-example.png)
 
 - Objective : To predict sales for given budget spend on TV, Radio and Newspaper in dollars.
 - **Regression Model**
