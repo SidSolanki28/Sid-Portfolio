@@ -6,7 +6,7 @@ Data Science Portfolio
 ---
 # [Project 2: Predict Future Product Sales](https://github.com/SidSolanki28/Predict-Future-Product-Sales)
 
-![](https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/0_1nv2atmRxYF8RhEw.png =100x20)
+![](https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/0_1nv2atmRxYF8RhEw.png){:height="36px" width="36px"}
 
 - Objective : To predict future product sales
 - **Time Series Forecasting Model**
