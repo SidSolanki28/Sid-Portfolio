@@ -30,12 +30,12 @@ Data Science Portfolio
 ---
 # [Project 4: Employee Attrition in Organisation](https://github.com/SidSolanki28/Employee-Attrition-in-Organisation)
 
-![](https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/attrition.jpg)
+<img src="https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/attrition.jpg" width="700" height="250">
 
 - Objective : To predict Employee Attrition in an organisation 
 - **Classification Model**
 - Data cleaning and Data preprocessing has been done
 - Exploratory Data Analysis
 - Various classification models like **Logistic Regression**, **KNN**, **SVM**, **Kernel SVM**, **Naive Bayes**, **Decision Tree**, **Random Forest**, **ANN**, **XGBosst** and **CatBoost**  are used.
-Model Performance Comparison
-Conclusion: Top Reasons why employees are leaving an organisation
+- Model Performance Comparison
+- Conclusion: Top Reasons why employees are leaving an organisation
