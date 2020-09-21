@@ -31,7 +31,7 @@ Data Science Portfolio
 ---
 # [Project 4: Employee Attrition in Organisation](https://github.com/SidSolanki28/Employee-Attrition-in-Organisation)
 
-![](https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/0_1nv2atmRxYF8RhEw.png)
+![](https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/attrition.jpg)
 
 - Objective : To predict Employee Attrition in an organisation 
 - **Classification Model**
