@@ -39,3 +39,15 @@ Data Science Portfolio
 - Various classification models like **Logistic Regression**, **KNN**, **SVM**, **Kernel SVM**, **Naive Bayes**, **Decision Tree**, **Random Forest**, **ANN**, **XGBosst** and **CatBoost**  are used.
 - Model Performance Comparison
 - Conclusion: Top Reasons why employees are leaving an organisation
+
+# [Project 5: Absenteeism-at-Work](https://github.com/SidSolanki28/Absenteeism-at-Work)
+
+- Objective : 
+  - **To Predict Absenteeism at Company during Worktime**
+  - to integrate **Python, SQL, and Tableau**
+- Classification Problem
+- Data cleaning and Data preprocessing
+- Exploratory Data Analysis
+- **Logistic Regression Model** Training and Prediction
+- Inteprating its Odd Ratios and Coefficients
+- Integrating Model with SQL and Tableau
