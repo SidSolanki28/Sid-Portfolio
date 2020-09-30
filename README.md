@@ -40,6 +40,7 @@ Data Science Portfolio
 - Model Performance Comparison
 - Conclusion: Top Reasons why employees are leaving an organisation
 
+---
 # [Project 5: Absenteeism-at-Work](https://github.com/SidSolanki28/Absenteeism-at-Work)
 
 - Objective : 
@@ -51,3 +52,18 @@ Data Science Portfolio
 - **Logistic Regression Model** Training and Prediction
 - Inteprating its Odd Ratios and Coefficients
 - Integrating Model with SQL and Tableau
+
+---
+# [Project 6: Credit Card Customer Segmentation](https://github.com/SidSolanki28/Credit-Card-Customer-Segmentation)
+
+<img src="https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/credit1.png" width="400" height="250">
+
+- Objective : **To do Customer Segmentation on Credit Card Data** 
+- Clustering Model
+- Data cleaning and Data preprocessing
+- Exploratory Data Analysis
+- **K-means Clustering**
+- **PCA** used for Model Visualization
+- **Autoencoders Model** used for Dimensionality Reduction to improve Cluster Analysis
+
+---
