@@ -56,7 +56,9 @@ Data Science Portfolio
 ---
 # [Project 6: Credit Card Customer Segmentation](https://github.com/SidSolanki28/Credit-Card-Customer-Segmentation)
 
+
 <img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/credit1.png" width="400" height="250">
+
 
 - Objective : **To do Customer Segmentation on Credit Card Data** 
 - Clustering Model
