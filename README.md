@@ -58,7 +58,6 @@ Data Science Portfolio
 
 <img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/credit1.png" width="400" height="250">
 
-
 - Objective : **To do Customer Segmentation on Credit Card Data** 
 - Clustering Model
 - Data cleaning and Data preprocessing
