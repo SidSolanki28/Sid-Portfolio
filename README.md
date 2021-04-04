@@ -69,17 +69,18 @@ Data Science Portfolio
 ---
 # Project 7: Urban Sound Audio Classification
 
-#### [Kaggle Link : Urban Sound Audio Classification : Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
+#### [Kaggle Link : Urban Sound Audio Classification Part 1 -  Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
 
-#### [Kaggle Link : Urban Sound Audio Classification : Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
+#### [Kaggle Link : Urban Sound Audio Classification Part 2 - Feature Engineering](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-2)
 
 
 <img src="https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/sound-effects-packs.jpg" width="400" height="250">
 
 - Objective : 
   - **To classifiy urban sound**
+  - used **librosa** library for music and audio analysis
 - Classification Problem
 - Data cleaning
 - Exploratory Data Analysis
-- Data Preprocessing
+- Data Preprocessing : Feature Extraction using MFCC
 - **Artificial Neural Network (ANN)** Training and Prediction
