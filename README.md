@@ -53,7 +53,7 @@
 ---
 # Project 6: Credit Card Customer Segmentation 
 
-#### [Github Link](https://github.com/SidSolanki28/Credit-Card-Customer-Segmentation)
+#### [Github Link -> Intro & all files](https://github.com/SidSolanki28/Credit-Card-Customer-Segmentation)
 
 #### [Notebook Link -> Part 1 - Pre-processing](https://nbviewer.jupyter.org/github/SidSolanki28/Credit-Card-Customer-Segmentation/blob/master/credit_card_pre_processing.ipynb)
 
