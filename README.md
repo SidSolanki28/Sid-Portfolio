@@ -51,7 +51,15 @@
 - Integrating Model with SQL and Tableau
 
 ---
-# [Project 6: Credit Card Customer Segmentation](https://github.com/SidSolanki28/Credit-Card-Customer-Segmentation)
+# Project 6: Credit Card Customer Segmentation 
+
+#### [Github Link](https://github.com/SidSolanki28/Credit-Card-Customer-Segmentation)
+
+#### [Notebook Link -> Part 1 - Pre-processing](https://nbviewer.jupyter.org/github/SidSolanki28/Credit-Card-Customer-Segmentation/blob/master/credit_card_pre_processing.ipynb)
+
+#### [Notebook Link -> Part 2 - Model Building](https://nbviewer.jupyter.org/github/SidSolanki28/Credit-Card-Customer-Segmentation/blob/master/credit_card_model_builiding.ipynb)
+
+#### [Notebook Link -> Part 3 - AutoEncoder Model Building](https://nbviewer.jupyter.org/github/SidSolanki28/Credit-Card-Customer-Segmentation/blob/master/credit_card_autoencoder_model_builiding.ipynb)
 
 <img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/credit1.png" width="400" height="250">
 
@@ -75,8 +83,8 @@
 #### [Kaggle Link -> Urban Sound Audio Classification Part 3 - Model Training & Testing](https://www.kaggle.com/sidsolanki/audio-classification-part-3)
 
 - Objective : 
-  - **To classifiy urban sound**
-  - used **librosa** library for music and audio analysis
+  - **To classifiy UrbanSound**
+  - used **Librosa** library for music and audio analysis
 - Classification Problem
 - Data cleaning
 - Exploratory Data Analysis
