@@ -69,7 +69,9 @@ Data Science Portfolio
 ---
 # Project 7: Urban Sound Audio Classification
 
+
 <img src="https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/sound-effects-packs.jpg" width="400" height="250">
+
 
 #### [Kaggle Link -> Urban Sound Audio Classification Part 1 -  Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
 
