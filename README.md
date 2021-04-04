@@ -67,3 +67,14 @@ Data Science Portfolio
 - **Autoencoders Model** used for Dimensionality Reduction to improve Cluster Analysis
 
 ---
+# [Project 7: Urban Sound Audio Classification]#(https://github.com/SidSolanki28/Credit-Card-Customer-Segmentation)
+
+<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/credit1.png" width="400" height="250">
+
+- Objective : **To do Customer Segmentation on Credit Card Data** 
+- Clustering Model
+- Data cleaning and Data preprocessing
+- Exploratory Data Analysis
+- **K-means Clustering**
+- **PCA** used for Model Visualization
+- **Autoencoders Model** used for Dimensionality Reduction to improve Cluster Analysis
