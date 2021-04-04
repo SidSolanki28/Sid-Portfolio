@@ -67,9 +67,12 @@ Data Science Portfolio
 - **Autoencoders Model** used for Dimensionality Reduction to improve Cluster Analysis
 
 ---
-# [Project 7: Urban Sound Audio Classification]
+# Project 7: Urban Sound Audio Classification
 
-#### [Kaggle Link : Urban Sound Audio Classification Part 1](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
+#### [Kaggle Link : Urban Sound Audio Classification : Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
+
+#### [Kaggle Link : Urban Sound Audio Classification : Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
+
 
 <img src="https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/sound-effects-packs.jpg" width="400" height="250">
 
