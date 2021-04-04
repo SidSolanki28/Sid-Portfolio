@@ -69,9 +69,11 @@ Data Science Portfolio
 ---
 # Project 7: Urban Sound Audio Classification
 
-#### [Kaggle Link : Urban Sound Audio Classification Part 1 -  Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
+#### [Kaggle Link -> Urban Sound Audio Classification Part 1 -  Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
 
-#### [Kaggle Link : Urban Sound Audio Classification Part 2 - Feature Engineering](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-2)
+#### [Kaggle Link -> Urban Sound Audio Classification Part 2 - Feature Engineering](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-2)
+
+#### [Kaggle Link -> Urban Sound Audio Classification Part 3 - Model Training & Testing](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-2)
 
 
 <img src="https://github.com/SidSolanki28/Sid_Portfolio/blob/master/images/sound-effects-packs.jpg" width="400" height="250">
